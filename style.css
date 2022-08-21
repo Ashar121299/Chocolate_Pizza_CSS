@@ -1,0 +1,155 @@
+* {
+    font-family: Andale Mono;
+}
+.content {
+  max-width: 900px;
+  margin: auto;
+  padding: 10px;
+}
+
+.logo {
+    display: inline-block;
+    margin-bottom: 3vh;
+}
+
+.logoimg {
+    display:inline-block;
+    vertical-align:top;
+}
+
+.logotext {
+    display:inline-block;
+    margin-top: -8.5vh;
+}
+
+.logotext h3 {
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.logotext p {
+    margin-top: -8vh;
+    font-size: 10px;
+    font-weight: 600;
+    color:gray;
+}
+
+.links {
+    float:right;
+}
+
+.rss_icon {
+    margin-right: -3px;
+    margin-left:4px;
+}
+.dotted {
+    border-top: 1px dotted #bbb;
+    margin-top: -7px;
+  }
+
+  .post_heading {
+    font-family: system-ui;
+    font-size: 40px;
+}
+
+.print_text {
+    display: inline-block;
+    font-size: 10px;
+    color:lightgrey;
+    float:right;
+    margin-top: -4vh; 
+    margin-bottom: 3vh;
+}
+
+.date_text {
+    display: inline-block;
+    font-size: 14px;
+    color:lightgrey;
+    float:left;
+    margin-top: -4vh; 
+    margin-bottom: 3vh;
+}
+
+.main p {
+    font-size:14px;
+    font-weight:600;
+    color:gray;
+}
+.tab {
+    display:inline-block;
+    margin-left:20px;
+}
+
+.foot_img {
+    display:inline-block;
+    vertical-align:top;
+}
+
+.foot_txt {
+    display:inline-block;
+    margin-top: -3vh;
+    margin-left: 1vw;
+    
+}
+
+.foot_txt p {
+    margin-top: -2vh;
+    font-size:16px;
+}
+
+.foot_btn {
+    float:right;
+    margin-top: 2vh;
+}
+
+.foot_btn button {
+    padding: 15px;
+    border: none;
+    color: white;
+    background: orangered;
+}
+
+.copyright {
+    text-align:center;
+    margin-top: -4vh;
+}
+
+.copyright p {
+    font-size: 12px;
+    white-space: pre-line;
+    color:gray;
+}
+
+.dotline {
+    border-top: 1px #bbb;
+    margin-top: 5vh;
+}
+
+.img_container {
+    position: relative;
+    text-align: center;
+    color: dimgray;
+}
+
+.img_container label {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.left {
+    position: absolute;
+    top: 9vh;
+    left: 4vw;
+    text-align:left;
+}
+  
+.right {
+    position: absolute;
+    top: 9vh;
+    right: 4vw;
+    text-align:left;
+}
+
+.striked {
+    text-decoration: line-through;
+}
